@@ -1,9 +1,7 @@
 <style>
 #frontpage-intro {
-  background-color: #000000;
   border: 2px #757575 solid;
   padding: 20px;
-  text-align: left;
 }
 </style>
 

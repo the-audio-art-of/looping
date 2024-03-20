@@ -1,19 +1,20 @@
 INHERIT: docs/common/config.yml
 
+site_author: "michael02022"
 site_name: "The Audio Art of Looping"
 site_url: "https://the-audio-art-of.github.io/looping"
 site_description: "Shared notes"
 
-#copyright: "Copyright &copy; 2019 - 2023 michael02022"
-#repo_name: "GitHub"
-#repo_url: "https://github.com/the-audio-art-of/looping"
+copyright: "Copyright &copy; 2024 michael02022"
+repo_name: "GitHub"
+repo_url: "https://github.com/the-audio-art-of/looping"
 
 extra:
   homepage: "/looping/"
   social:
   - icon: "fontawesome/brands/github"
     link: "https://github.com/the-audio-art-of/looping"
-    name: "Notes on GitHub"
+    name: "The Audio Art of Looping on GitHub"
 
 #plugins:
 #  with-pdf: {}
