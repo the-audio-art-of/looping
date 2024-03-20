@@ -2,7 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://the-audio-art-of.github.io/looping/</loc>
-         <lastmod>2024-03-19</lastmod>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/behaviors/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/freeze/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/infinity/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/pingpong/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/raw/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/resample/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/rotatesums/</loc>
+         <lastmod>2024-03-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://the-audio-art-of.github.io/looping/synthesis/</loc>
+         <lastmod>2024-03-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
