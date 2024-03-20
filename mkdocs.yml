@@ -18,5 +18,13 @@ extra:
 #plugins:
 #  with-pdf: {}
 
-not_in_nav: |
-  index.md
+nav:
+- 🏠 Home: index.md
+- infinity.md
+- resample.md
+- behaviors.md
+- raw.md
+- freeze.md
+- synthesis.md
+- rotatesums.md
+- pingpong.md
