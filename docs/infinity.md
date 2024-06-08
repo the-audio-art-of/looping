@@ -47,7 +47,7 @@ and for macOS users:
 
 ### 2. Mac OS 9.2.1 hard disk image with Antares Infinity
 
-This is provided by myself (2GB .img [Download from MEGA]), inside of this hard disk includes a READ ME
+This is provided by myself (2GB .img [Download]), inside of this hard disk includes a READ ME
 with instructions and indications. The way to configure it is with a bash/batch file,
 since QEMU is executed via command lines.
 
@@ -95,4 +95,4 @@ Hope you enjoy this tool, see you later!
 ![qemu_infinity.png](assets/img/infinity/qemu_infinity.png)
 
 
-[Download from MEGA]: https://mega.nz/file/Y6on0T4D#9Dw-JUssRMaF9hAyMZrMccCh241dJPzsJ1JzGKsm-bU
+[Download]: https://drive.google.com/file/d/1Du3VxmilrxTKIwauQis172XwXKRs_e72/view?usp=sharing
